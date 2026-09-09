@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Afterlight",
+    "brand": "elena",
+    "file": "journey-elena-darkroom.html",
+    "base": "Silver Bath / photographic darkroom",
+    "cover": "516d35_2c57ef3bbd1f4444b5b822ab42e1adcd~mv2.jpeg",
+    "descriptionRu": "Сквозная фотолаборатория света: экспозиция раскрывает фотографии, слои расходятся и собираются в контактные листы четырёх коллекций, финал проявляет авторский отпечаток."
+  },
+  {
+    "name": "Print Atlas",
+    "brand": "elena",
+    "file": "journey-elena-printriot.html",
+    "base": "Print Riot / Glyphe",
+    "cover": "516d35_34411c80c793474589279fb3ad9299e0~mv2.jpeg",
+    "descriptionRu": "Фотожурнал со сквозной режиссурой: обложка раскрывает контактный лист, фолио перелистывается, публикации печатаются слоями, архивная лента собирается в подпись и контакт. Четыре разные печатные формы до самого финала."
+  },
+  {
+    "name": "VOYAGE",
+    "brand": "proconcept",
+    "file": "journey-proconcept-velocity.html",
+    "base": "VELOCITY",
+    "cover": "516d35_232c102cf44d42f08b574382369c8b0f~mv2.jpg",
+    "descriptionRu": "Кинематографическая выставка из шести залов: серебряные стены раскрывают целые проекты, камера проходит через архитектуру, а финальный обратный пролёт собирает пространство для студии и контакта."
+  },
+  {
+    "name": "Helix — Full Journey",
+    "brand": "proconcept",
+    "base": "Helix Press",
+    "file": "journey-proconcept-helix.html",
+    "cover": "516d35_232c102cf44d42f08b574382369c8b0f~mv2.jpg",
+    "descriptionRu": "Одна фотоспираль проходит через все шесть проектов. На каждой остановке разворачиваются семь снимков, затем лента продолжает путь к финалу."
+  }
+]
