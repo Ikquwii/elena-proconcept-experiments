@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Silver Bath",
+    "brand": "elena",
+    "base": "Iris",
+    "file": "next-elena-silverbath.html",
+    "cover": "516d35_2c57ef3bbd1f4444b5b822ab42e1adcd~mv2.jpeg",
+    "descriptionRu": "Оптическая лаборатория: стеклянная линза преломляет настоящую фотографию, раскрывается в проход и отвечает волной на касание."
+  },
+  {
+    "name": "Print Riot",
+    "brand": "elena",
+    "base": "Glyphe",
+    "file": "next-elena-printriot.html",
+    "cover": "516d35_34411c80c793474589279fb3ad9299e0~mv2.jpeg",
+    "descriptionRu": "Портрет распадается на тысячи объёмных фрагментов, пролетает сквозь огромные EB и собирается в следующий кадр."
+  },
+  {
+    "name": "Velocity",
+    "brand": "proconcept",
+    "base": "PROSCENIUM",
+    "file": "next-proconcept-velocity.html",
+    "cover": "516d35_232c102cf44d42f08b574382369c8b0f~mv2.jpg",
+    "descriptionRu": "Пролёт через фотографические порталы: монументальные рамы, световые линии и смена перспективы в трёх актах."
+  },
+  {
+    "file": "next-proconcept-helix.html",
+    "name": "Helix Press",
+    "brand": "proconcept",
+    "base": "ROTOGRAPH",
+    "descriptionRu": "Фотоплёнка закручивается в пространственную скульптуру. Камера облетает непрерывную ленту, выбранный кадр распрямляется.",
+    "cover": "516d35_232c102cf44d42f08b574382369c8b0f~mv2.jpg"
+  }
+]
