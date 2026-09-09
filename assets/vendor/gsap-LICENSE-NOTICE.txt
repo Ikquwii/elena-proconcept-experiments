@@ -1,0 +1,5 @@
+Package: gsap
+Version: 3.15.0
+License declaration: Standard 'no charge' license: https://gsap.com/standard-license.
+Homepage: https://gsap.com
+Copyright and license URL retained in the distributed JS file headers.

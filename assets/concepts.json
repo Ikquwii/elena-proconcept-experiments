@@ -1,0 +1,206 @@
+{
+  "elena": [
+    {
+      "number": 1,
+      "name": "Éventail",
+      "slug": "eventail",
+      "file": "new-elena-01-eventail.html",
+      "descriptionRu": "Веер модных отпечатков на чёрном фоне. Галереи раскрываются как авторское портфолио.",
+      "motionRu": "Вращение веера по нажатию; каскадное раскрытие серий.",
+      "cover": "516d35_97a11df3c3af43778d3dd08f0b9a32c0~mv2.jpg",
+      "theme": "dark"
+    },
+    {
+      "number": 2,
+      "name": "Volets",
+      "slug": "volets",
+      "file": "new-elena-02-volets.html",
+      "descriptionRu": "Фотографические ставни: касание раскрывает выбранную серию.",
+      "motionRu": "Чередующиеся вертикальные движения кадров и раскрытие ставней.",
+      "cover": "516d35_2b2864b96c524a7abea96d0485e15150~mv2.jpg",
+      "theme": "light"
+    },
+    {
+      "number": 3,
+      "name": "Contrechamp",
+      "slug": "contrechamp",
+      "file": "new-elena-03-contrechamp.html",
+      "descriptionRu": "Три потока фотографий и белая типографическая перемычка.",
+      "motionRu": "Встречное движение колонок; противоположный параллакс триптихов.",
+      "cover": "516d35_e308e30a06c34eaeb230f10a204366d9~mv2.jpg",
+      "theme": "light"
+    },
+    {
+      "number": 4,
+      "name": "Oblique",
+      "slug": "oblique",
+      "file": "new-elena-04-oblique.html",
+      "descriptionRu": "Диагональная фотолента, крупное имя и зигзагообразные серии.",
+      "motionRu": "Диагональный вход и плавный поворот галерей при прокрутке.",
+      "cover": "516d35_4e56305ade6e474f8dd84363ff989eed~mv2.jpg",
+      "theme": "light"
+    },
+    {
+      "number": 5,
+      "name": "Iris",
+      "slug": "iris",
+      "file": "new-elena-05-iris.html",
+      "descriptionRu": "Круглый оптический портал с крупным именем фотографа.",
+      "motionRu": "Раскрытие ирисовой маски и переход круга в полный кадр.",
+      "cover": "516d35_34411c80c793474589279fb3ad9299e0~mv2.jpeg",
+      "theme": "light"
+    },
+    {
+      "number": 6,
+      "name": "Reflets",
+      "slug": "reflets",
+      "file": "new-elena-06-reflets.html",
+      "descriptionRu": "Пять отражений вокруг центрального портрета на чёрном фоне.",
+      "motionRu": "Расхождение зеркальных кадров и встречное движение боковых фото.",
+      "cover": "516d35_34411c80c793474589279fb3ad9299e0~mv2.jpeg",
+      "theme": "dark"
+    },
+    {
+      "number": 7,
+      "name": "Cascade",
+      "slug": "cascade",
+      "file": "new-elena-07-cascade.html",
+      "descriptionRu": "Наложенные фотографические отпечатки и последовательные стопки работ.",
+      "motionRu": "Падающие отпечатки и смена закреплённых фотографий при прокрутке.",
+      "cover": "516d35_2c57ef3bbd1f4444b5b822ab42e1adcd~mv2.jpeg",
+      "theme": "light"
+    },
+    {
+      "number": 8,
+      "name": "Glyphe",
+      "slug": "glyphe",
+      "file": "new-elena-08-glyphe.html",
+      "descriptionRu": "Инициалы EB из фотографий и полноценный портрет на переднем плане.",
+      "motionRu": "Вход портрета поверх букв; сдвиг огромных номеров за снимками.",
+      "cover": "516d35_fb77e78515814e428742387df6d00423~mv2.jpg",
+      "theme": "light"
+    },
+    {
+      "number": 9,
+      "name": "Croisé",
+      "slug": "croise",
+      "file": "new-elena-09-croise.html",
+      "descriptionRu": "Фотографический крест и пространственный атлас четырёх разделов.",
+      "motionRu": "Сборка креста; смена композиций атласа по касанию.",
+      "cover": "516d35_97a11df3c3af43778d3dd08f0b9a32c0~mv2.jpg",
+      "theme": "light"
+    },
+    {
+      "number": 10,
+      "name": "Duet",
+      "slug": "duet",
+      "file": "new-elena-10-duet.html",
+      "descriptionRu": "Два кадра с подвижным швом и галерея визуальных пар.",
+      "motionRu": "Управляемый касанием шов и встречное движение пар.",
+      "cover": "516d35_d1f924d2546f4a37bd95a0126b660ec7~mv2.png",
+      "theme": "dark"
+    }
+  ],
+  "proconcept": [
+    {
+      "number": 1,
+      "name": "BILLBOARD",
+      "slug": "billboard",
+      "file": "new-proconcept-01-billboard.html",
+      "descriptionRu": "Три огромных рекламных постера на перспективной плоскости.",
+      "motionRu": "Кинематографическое приближение постеров; крупные галереи проектов.",
+      "cover": "516d35_f2baec6bd9e84aa4801eb24746c7a74e~mv2.jpg",
+      "theme": "light"
+    },
+    {
+      "number": 2,
+      "name": "TABLE DE TRAVAIL",
+      "slug": "table",
+      "file": "new-proconcept-02-table.html",
+      "descriptionRu": "Рабочий стол арт-директора: реальные цветные фотографии вокруг строгого логотипа.",
+      "motionRu": "Касание раскрывает и собирает стопку фотографий проекта.",
+      "cover": "516d35_d77ab9ce6c0041f4984ef42c642a4918~mv2.jpg",
+      "theme": "light"
+    },
+    {
+      "number": 3,
+      "name": "PARAVENT",
+      "slug": "paravent",
+      "file": "new-proconcept-03-paravent.html",
+      "descriptionRu": "Фотографическая ширма из четырёх связанных панелей.",
+      "motionRu": "Складные перспективные панели раскрываются по касанию.",
+      "cover": "516d35_721b1d145df74201a5374a490864727b~mv2.jpg",
+      "theme": "dark"
+    },
+    {
+      "number": 4,
+      "name": "ONE TAKE",
+      "slug": "onetake",
+      "file": "new-proconcept-04-onetake.html",
+      "descriptionRu": "Полнокадровая постановка с крупной типографикой и тонкой режиссёрской рамкой.",
+      "motionRu": "Плавное приближение, открытие кадров и непрерывная история проекта.",
+      "cover": "516d35_97ef482fcbed42429610fea0f0ec572e~mv2.jpg",
+      "theme": "dark"
+    },
+    {
+      "number": 5,
+      "name": "REASSEMBLY",
+      "slug": "reassembly",
+      "file": "new-proconcept-05-reassembly.html",
+      "descriptionRu": "Плотная цветная мозаика образует живой экран студии.",
+      "motionRu": "Касание выделяет связанные фрагменты; проекты раскрываются в композиции.",
+      "cover": "516d35_6c3733536816454eb83583eebb4be9b2~mv2.jpg",
+      "theme": "light"
+    },
+    {
+      "number": 6,
+      "name": "PROSCENIUM",
+      "slug": "proscenium",
+      "file": "new-proconcept-06-proscenium.html",
+      "descriptionRu": "Монументальный чёрный портал с боковыми фотографическими проёмами.",
+      "motionRu": "Рамка открывается как сценический портал; вложенные галереи.",
+      "cover": "516d35_b9dfb542383f4a0db64817c93c64ccc6~mv2.jpg",
+      "theme": "dark"
+    },
+    {
+      "number": 7,
+      "name": "ELEVATION",
+      "slug": "elevation",
+      "file": "new-proconcept-07-elevation.html",
+      "descriptionRu": "Две фотографические дорожки и узкий неподвижный типографический центр.",
+      "motionRu": "Вертикальное встречное движение; смена сторон в проектах.",
+      "cover": "516d35_f2baec6bd9e84aa4801eb24746c7a74e~mv2.jpg",
+      "theme": "light"
+    },
+    {
+      "number": 8,
+      "name": "CUT / HOLD",
+      "slug": "cuthold",
+      "file": "new-proconcept-08-cuthold.html",
+      "descriptionRu": "Четыре широкие горизонтальные полосы фотографий рядом с вертикальным логотипом.",
+      "motionRu": "Касание разворачивает полосу; свайп листает кадры проекта.",
+      "cover": "516d35_d77ab9ce6c0041f4984ef42c642a4918~mv2.jpg",
+      "theme": "dark"
+    },
+    {
+      "number": 9,
+      "name": "FOUR VIEWS",
+      "slug": "fourviews",
+      "file": "new-proconcept-09-fourviews.html",
+      "descriptionRu": "Четыре цветных квадранта с маленьким центральным логотипом.",
+      "motionRu": "Касание расширяет квадрант; остальные остаются навигационным краем.",
+      "cover": "516d35_721b1d145df74201a5374a490864727b~mv2.jpg",
+      "theme": "dark"
+    },
+    {
+      "number": 10,
+      "name": "ROTOGRAPH",
+      "slug": "rotograph",
+      "file": "new-proconcept-10-rotograph.html",
+      "descriptionRu": "Фотографическая призма с большим фронтальным кадром и боковыми гранями.",
+      "motionRu": "Свайп и кнопки поворачивают сцену к следующему проекту.",
+      "cover": "516d35_97ef482fcbed42429610fea0f0ec572e~mv2.jpg",
+      "theme": "light"
+    }
+  ]
+}
