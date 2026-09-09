@@ -1,0 +1,34 @@
+[
+  {
+    "file": "wow-elena-orbit.html",
+    "name": "Orbit — Éventail Amplified",
+    "brand": "elena",
+    "base": "Éventail",
+    "descriptionRu": "Фотографии в объёмной орбите: раскрытие, разлёт в глубину и сборка на скролле. Свайп меняет акцент; касание выдвигает выбранный отпечаток.",
+    "cover": "516d35_34411c80c793474589279fb3ad9299e0~mv2.jpeg"
+  },
+  {
+    "file": "wow-elena-oblique.html",
+    "name": "Oblique — Kinetic Edition",
+    "brand": "elena",
+    "base": "Oblique",
+    "descriptionRu": "Диагональная лента крупных фотографий пересекает экран, поворачивается и собирается обратно. Кинетическая типографика и пролёт отпечатков в четырёх сериях.",
+    "cover": "516d35_74a22f8a45824e35be3c1dc850ae7293~mv2.jpeg"
+  },
+  {
+    "file": "wow-proconcept-stage.html",
+    "name": "WORLD STAGE",
+    "brand": "proconcept",
+    "base": "PARAVENT",
+    "descriptionRu": "Фотографический театр в трёх актах: гигантская складная ширма распахивается, уходит через камеру и собирает новую постановку. Касание разворачивает выбранный принт в полный кадр.",
+    "cover": "516d35_232c102cf44d42f08b574382369c8b0f~mv2.jpg"
+  },
+  {
+    "file": "wow-proconcept-fourviews.html",
+    "name": "Four Views — Immersive",
+    "brand": "proconcept",
+    "base": "FOUR VIEWS",
+    "descriptionRu": "Контактный лист раскрывается в объёмную фотогалерею. Камера проходит между снимками; выбранный кадр собирает пространство вокруг себя.",
+    "cover": "516d35_5b491eb6a6f24df5997a3b9fb0303d69~mv2.jpg"
+  }
+]
