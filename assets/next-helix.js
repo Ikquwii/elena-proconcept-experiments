@@ -20,9 +20,7 @@ if(A&&D&&root){
  const goTo=value=>{if(root.classList.contains('hx-static'))return;const top=story.getBoundingClientRect().top+scrollY;window.scrollTo({top:top+(story.offsetHeight-stage.offsetHeight)*value,behavior:env.reduce?'auto':'smooth'});};
  root.querySelectorAll('[data-chapter]').forEach(button=>button.addEventListener('click',()=>goTo(Number(button.dataset.chapter))));
  let promote=()=>{};
- const shortLandscape=matchMedia('(orientation:landscape) and (max-height:500px)').matches;
- if(shortLandscape)fallback();
- else start().catch(error=>{if(kit?.alive)kit.fail(error);else{console.warn('Helix Press: the photographic gallery is available.',error);fallback();}});
+ start().catch(error=>{if(kit?.alive)kit.fail(error);else{console.warn('Helix Press: the photographic gallery is available.',error);fallback();}});
 
  async function start(){
   const {createLabScene}=await import('./lab-runtime.js');
